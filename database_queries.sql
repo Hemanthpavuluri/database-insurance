@@ -1,5 +1,3 @@
--- Cs5332 Project, Stage 3
--- ### HEMANTH PAVULURI -- A05138724 ###
 set pagesize 300;
 set linesize 300;
 
