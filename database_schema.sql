@@ -1,4 +1,4 @@
---student id:A05138724 , HEMANTH PAVULURI
+
 set termout on
 prompt Building EX Insurance Company database. Please wait...
 set pagesize 50
